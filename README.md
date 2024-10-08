@@ -1,2 +1,4 @@
 # Python
-These are my Python scripts created by me.
+## 📂Files
+### `sudoku.py`
+- This is the main script that contains all the functionality for generating and solving Sudoku puzzles.
